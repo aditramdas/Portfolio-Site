@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio-Site/static/css/main.d68edda0.chunk.css",
+    "main.css": "/Portfolio-Site/static/css/main.e33a3d5b.chunk.css",
     "main.js": "/Portfolio-Site/static/js/main.467eecee.chunk.js",
     "main.js.map": "/Portfolio-Site/static/js/main.467eecee.chunk.js.map",
     "runtime-main.js": "/Portfolio-Site/static/js/runtime-main.addb9c1c.js",
@@ -12,7 +12,7 @@
     "static/js/3.3b2df35d.chunk.js.map": "/Portfolio-Site/static/js/3.3b2df35d.chunk.js.map",
     "index.html": "/Portfolio-Site/index.html",
     "static/css/2.c4e73993.chunk.css.map": "/Portfolio-Site/static/css/2.c4e73993.chunk.css.map",
-    "static/css/main.d68edda0.chunk.css.map": "/Portfolio-Site/static/css/main.d68edda0.chunk.css.map",
+    "static/css/main.e33a3d5b.chunk.css.map": "/Portfolio-Site/static/css/main.e33a3d5b.chunk.css.map",
     "static/js/2.deaed5e6.chunk.js.LICENSE.txt": "/Portfolio-Site/static/js/2.deaed5e6.chunk.js.LICENSE.txt",
     "static/media/Adith.b3b77d4f.png": "/Portfolio-Site/static/media/Adith.b3b77d4f.png",
     "static/media/Chat.0464d3ee.png": "/Portfolio-Site/static/media/Chat.0464d3ee.png",
@@ -25,7 +25,7 @@
     "static/js/runtime-main.addb9c1c.js",
     "static/css/2.c4e73993.chunk.css",
     "static/js/2.deaed5e6.chunk.js",
-    "static/css/main.d68edda0.chunk.css",
+    "static/css/main.e33a3d5b.chunk.css",
     "static/js/main.467eecee.chunk.js"
   ]
 }
