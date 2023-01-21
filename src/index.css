@@ -60,7 +60,7 @@ p {
 }
 
 .ovhidden {
-    overflow: hidden;
+    overflow: auto;
 }
 
 .text_2,
