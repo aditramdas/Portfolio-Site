@@ -10,31 +10,7 @@ section {
 .who_am_I {
     font-family: Cinzel;
 }
-/* .sectionImg{
-    position: relative;
-    width: 100%;
-    height: 100%;
-    transform-style: preserve-3d;
-    perspective: 500px;
-}
-.banner{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    overflow: hidden;
-    display: flex;
-    flex-wrap: wrap;
-}
-.blocks{
-    position: relative;
-    display: block;
-    width: 3vw;
-    height: 3vh;
-    background: white;
-    animation: animate 2s ease-in-out forwards
-} */
+
 
 .has-first-color {
     color: var(--primary-color);
@@ -123,17 +99,29 @@ section {
 }
 .helloImage{
     display: flex;
+    flex-direction: row;
     position: fixed;
     left: 90px;
     top: 120px;
     width: 400px;
-    animation: animate 2s ease-in-out forwards;
+    animation: animatedd 4s ease-in-out forwards , hoverAni 4s ease-in-out forwards;
+    animation-iteration-count: 1 , infinite;
     transition: ease-in-out 0.4s;
     border-radius: 500px;
 }
-.helloImage:hover{
+@keyframes hoverAni{
+    0%{
     background-color: rgb(231, 231, 231);
-    box-shadow: 3px 8px 60px -1px rgba(255, 255, 255, 0.9) ;
+    box-shadow: px px 0px -0px rgba(255, 255, 255, 0.9) ;
+    }
+    50%{
+        background-color: rgb(231, 231, 231);
+        box-shadow: 4px 15px 100px -1px rgba(255, 255, 255, 0.9) ;
+    }
+    100%{
+        background-color: rgb(231, 231, 231);
+        box-shadow: 0px 0px 0px -0px rgba(255, 255, 255, 0.9) ;
+        }
     
 }
 #button_h{
@@ -143,13 +131,13 @@ section {
     background-color: transparent;
     border: none;
 }
-@keyframes animate{
+@keyframes animatedd{
     0%{
-        opacity: 0%;
         filter: invert(1);
+        opacity: 0;
     }
-    80%{
-        opacity: 100%;
+    70%{
+        opacity: 1;
     }
     100%{
         filter: invert(0);

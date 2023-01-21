@@ -41,7 +41,7 @@ const skills = [{
         value: 90,
     },
     {
-        name: "Djano",
+        name: "Django",
         value: 85,
     },
     {
@@ -89,9 +89,9 @@ const dataportfolio = [{
         link: "https://iedc-cet-website.vercel.app/",
     },
     {
-        "img": Gmail,
-        desctiption: "Expenditure Calculation - A tool which helps to calculate the daily expenses by storing transaction amounts in specific columns of an excel file",
-        link: "https://github.com/aditramdas/GmailHack2.0",
+        "img": Assignmentor,
+        desctiption: "A tool to get instant answers for all your question in a handwriting format",
+        link: "https://github.com/aditramdas/Valyamakkal-Hack",
     },
     {
         "img": KnowDoc,
@@ -102,6 +102,11 @@ const dataportfolio = [{
         "img": Spotify,
         desctiption: "Spotify Clone(Currently Doing) - React App with functionalities of Spotify, getting songs through the Spotify API",
         link: "https://github.com/aditramdas/spotify-clone",
+    },
+    {
+        "img": Gmail,
+        desctiption: "Expenditure Calculation - A tool which helps to calculate the daily expenses by storing transaction amounts in specific columns of an excel file",
+        link: "https://github.com/aditramdas/GmailHack2.0",
     },
     
 ];
