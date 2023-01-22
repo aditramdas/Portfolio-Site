@@ -3,6 +3,7 @@ import IEDC from "./pages/portfolio/IEDC.png"
 import Gmail from "./pages/portfolio/Gmail.webp"
 import KnowDoc from "./pages/portfolio/KnowDoc.png"
 import Spotify from "./pages/portfolio/Spotify.jpg"
+import Assignmentor from "./pages/portfolio/Assignmentor.png"
 const logotext = "Adith";
 const meta = {
     title: "Adith Ramdas",
